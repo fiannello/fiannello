@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Facundo Iannello Marketing Data Analyst at Trafilea Group [shapermint.com, truekind.com]
+- 👋 Hi, I’m Facundo Iannello, Marketing Data Analyst at Trafilea Group [shapermint.com, truekind.com]
 - 🌱 I’m currently learning Data Engeneering skills using Python and AWS
 - 📫 How to reach me: facuiannello@gmail.com
 
